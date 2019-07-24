@@ -1,4 +1,4 @@
-# Mattermost Recipe - Running Mattemrost Behind a Double Apache Proxy Inside a Subdirectory
+# Mattermost Recipe - Running Mattermost Behind a Double Apache Proxy Inside a Subdirectory
 *AKA "Yo Dawg, we put a proxy in yo proxy so you can connect while you connect"*
 
 ## Problem
